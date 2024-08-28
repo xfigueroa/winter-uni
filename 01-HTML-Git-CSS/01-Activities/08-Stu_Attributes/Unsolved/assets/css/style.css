@@ -1,0 +1,19 @@
+.lesson {
+  background-color: rgb(247, 15, 196);
+}
+
+.title {
+  color: darkblue;
+}
+
+#email {
+  background-color: rgb(182, 26, 26);
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: rgb(41, 155, 111);
+}
